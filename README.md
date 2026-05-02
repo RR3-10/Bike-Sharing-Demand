@@ -140,8 +140,8 @@ Steps:
 | Model              | RMSLE |
 |------------------|------|
 | Linear Regression | ~0.79 |
-| Random Forest     | Improved |
-| XGBoost           | ~0.5–0.6 |
+| Random Forest     | 0.47|
+
 
 ---
 
